@@ -389,13 +389,7 @@ section {
   width: 90%;
   height: 90%;
 }
-.hex-img {
-  height: 45%;      /* change this */
-  width: 100%;
-  object-fit: contain;  /* keeps it looking clean */
-  object-position: top;
-  border-radius: 2rem;
-}
+
 
 
 .project-title {
